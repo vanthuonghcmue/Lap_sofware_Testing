@@ -26,7 +26,8 @@ WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/inp
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), '9NLz+4tGZcQ=')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Demo account_input-group'))
+WebUI.waitForElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Demo account_input-group'), 
+    10)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 
