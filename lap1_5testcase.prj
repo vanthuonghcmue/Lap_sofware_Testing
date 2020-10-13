@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>lap4_profile</name>
+   <name>lap1_5testcase</name>
    <tag></tag>
-   <UUID>d220dd5e-ae2f-4b82-8beb-9e7cb5981a18</UUID>
+   <UUID>21a85446-a58a-4b37-b12a-6015340914b0</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\DELL\Katalon Studio\lap4_profile\lap4_profile.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\DELL\Katalon Studio\lap1_5testcase\lap1_5testcase.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

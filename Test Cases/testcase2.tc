@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testcase2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b35b8890-6302-4198-a4a8-6e591fa5d230</testCaseGuid>
+   <variable>
+      <defaultValue>'Verify element text\r\n'</defaultValue>
+      <description></description>
+      <id>bd8520c3-92c1-445d-a25f-0e117326ffd0</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>
